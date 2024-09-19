@@ -1,0 +1,3 @@
+C:/Users/ZeHuei/OneDrive/Desktop/FINAL OOP PROJECT LZH/cmake-build-debug/CMakeFiles/Project_Debug.dir
+C:/Users/ZeHuei/OneDrive/Desktop/FINAL OOP PROJECT LZH/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ZeHuei/OneDrive/Desktop/FINAL OOP PROJECT LZH/cmake-build-debug/CMakeFiles/rebuild_cache.dir
