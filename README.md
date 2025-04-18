@@ -1,1 +1,3 @@
-Hello this is my Year 1 c++ final project feel free to make fun of me and give me some upgrades or changes to better my project. Thanks!
+#HELLO THIS IS A BANKING SYSTEM WHICH ALLOWS YOU TO CREATE AN ACCOUNT TO STORE AND CALCULATE INTERESTS
+#
+#READ THE README FILE ON HOW TO RUN THE CODE IN CLION OR VSCODE! 🐀 
